@@ -1,0 +1,15 @@
+# PyInstaller 构建产物
+build/
+dist/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# 可执行文件与备份（发布版请上传到 GitHub Releases）
+*.exe
+*.bak
+
+# 操作系统
+Thumbs.db
+.DS_Store
