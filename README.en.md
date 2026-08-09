@@ -16,6 +16,14 @@
 
 ---
 
+## 🖼 Preview
+
+![FocusTool in action](screen.png)
+
+> During a focus session: the semi-transparent countdown hovers at the top of the screen, Zhihu and Bilibili are unreachable in the browser, and there is no taskbar window to close.
+
+---
+
 ## ✨ Features
 
 - **Always-on-top countdown overlay**: a semi-transparent, click-through countdown hovers at the top of your screen — always visible, never in the way
